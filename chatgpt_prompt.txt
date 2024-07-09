@@ -1,0 +1,50 @@
+ChatGPT Prompt provided:
+
+You are given a resume as input. Please parse the content of the resume and convert it into a JSON format with the following structure:
+
+json
+{
+  "personal_information": {
+    "name": "",
+    "email": "",
+    "phone": "",
+    "address": ""
+  },
+  "professional_summary": "",
+  "experience": [
+    {
+      "job_title": "",
+      "company": "",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "responsibilities": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "",
+      "institution": "",
+      "location": "",
+      "start_date": "",
+      "end_date": ""
+    }
+  ],
+  "skills": [],
+  "certifications": [
+    {
+      "name": "",
+      "institution": "",
+      "date": ""
+    }
+  ],
+  "projects": [
+    {
+      "title": "",
+      "description": "",
+      "technologies": []
+    }
+  ],
+  "languages": [],
+  "interests": []
+}
