@@ -1,0 +1,166 @@
+Here's the parsed resume content in JSON format:
+
+{
+  "personal_information": {
+    "name": "Harika Vundru",
+    "email": "vv8850@srmist.edu.in",
+    "phone": "+91 9701810979",
+    "address": "Villa no 130, APR Signator, Mallampet, Hyderabad, Telangana-500090"
+  },
+  "professional_summary": "Highly motivated and creative B.Tech Computer Science Engineering student with a passion for Coding, Artificial Intelligence, Machine Learning, UI/UX designing and App development. Eager to explore new technologies and methodologies, with a strong commitment to continuous learning and personal development. Proficient in few programming languages like C, C++ and Python, and adept at applying AI/ML concepts to solve real-world challenges. Seeking opportunities to contribute my skills and enthusiasm to innovative projects and make a meaningful impact in the field of technology.",
+  "experience": [
+    {
+      "job_title": "Research Intern",
+      "company": "Samsung PRISM",
+      "location": "Chennai, Tamil Nadu",
+      "start_date": "Sept 2023",
+      "end_date": "Feb 2024",
+      "responsibilities": "Worked on a project that consisted on developing an app which reads users’ lip movements and converts it to text."
+    },
+    {
+      "job_title": "AI-ML Virtual Internship",
+      "company": "AICTE, AWS",
+      "location": "Online",
+      "start_date": "May 2023",
+      "end_date": "July 2023",
+      "responsibilities": "A three month online AI-ML internship conducted by AICTE."
+    },
+    {
+      "job_title": "Digital and Cloud Analytics Internship",
+      "company": "PwC",
+      "location": "Online",
+      "start_date": "Feb 2024",
+      "end_date": "June 2024",
+      "responsibilities": "Launchpad Program conducted by PwC."
+    },
+    {
+      "job_title": "Campus Ambassador Internship",
+      "company": "Swiggy",
+      "location": "Online",
+      "start_date": "April 2024",
+      "end_date": "June 2024",
+      "responsibilities": "An internship focused on advertising and promoting Swiggy for more users to install the app."
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in CSE",
+      "institution": "SRM Institute of Science and Technology",
+      "location": "Chennai, Tamil Nadu",
+      "start_date": "2021",
+      "end_date": "2025"
+    },
+    {
+      "degree": "High School/Intermediate",
+      "institution": "FIITJEE Jr College",
+      "location": "",
+      "start_date": "2019",
+      "end_date": "2021"
+    },
+    {
+      "degree": "10th Standard",
+      "institution": "Silver Oaks International School",
+      "location": "",
+      "start_date": "2009",
+      "end_date": "2019"
+    }
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "Python",
+    "HTML",
+    "CSS",
+    "Flutter",
+    "Android Studio",
+    "MySQL",
+    "SQLite",
+    "Figma",
+    "Machine Learning",
+    "Deep Learning",
+    "UI/UX Design",
+    "Problem Solving",
+    "Analytical Skills"
+  ],
+  "certifications": [
+    {
+      "name": "AWS Machine Learning Foundation Certificate",
+      "institution": "AWS",
+      "date": "April 2023"
+    },
+    {
+      "name": "Geodata Processing using Python",
+      "institution": "IIRS",
+      "date": "February 2023"
+    },
+    {
+      "name": "Python Course",
+      "institution": "IIT Madras, Guvi",
+      "date": "April - May 2023"
+    },
+    {
+      "name": "Applications of Machine Learning in Urban Studies",
+      "institution": "IIRS",
+      "date": "June 2023"
+    },
+    {
+      "name": "Ethical Hacker",
+      "institution": "Cisco",
+      "date": "April 2024"
+    },
+    {
+      "name": "AWS Academy Cloud Foundations",
+      "institution": "IIRS",
+      "date": "June 2023"
+    },
+    {
+      "name": "Algorithms in C, Data Structures in C, Linux Tutorial",
+      "institution": "Great Learning",
+      "date": "April - May 2023"
+    },
+    {
+      "name": "Stanford Machine Learning",
+      "institution": "Coursera",
+      "date": "November 2023"
+    },
+    {
+      "name": "AICTE AWS AI-ML Internship",
+      "institution": "AICTE",
+      "date": "May 2023 – July 2023"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Lip2Text",
+      "description": "Identifying and reading the user's lip movements and converting that into text with the help of data sets. Executed using neural networks like CNN and RNN.",
+      "technologies": ["CNN", "RNN", "Neural Networks"]
+    },
+    {
+      "title": "Plant Leaf Disease detection Android App",
+      "description": "Detect the diseases in various plant leafs using machine learning, executed as an app made using Java and Android Studio during a hackathon called Hacksummit 4.0.",
+      "technologies": ["Java", "Android Studio", "Machine Learning"]
+    },
+    {
+      "title": "Object Classification App",
+      "description": "Identify the object whose photo is taken using Semi Supervised Machine Learning, executed as an app made using Java and Android Studio.",
+      "technologies": ["Java", "Android Studio", "Semi Supervised Machine Learning"]
+    },
+    {
+      "title": "MedTrack – Prescription to Text App",
+      "description": "Take a photo of a prescription and convert it to text, using this text to set reminders for medication. Uses MongoDB database for storing prescription data. Executed as an app made using Java and Android Studio.",
+      "technologies": ["Java", "Android Studio", "MongoDB"]
+    },
+    {
+      "title": "Simple food delivery website",
+      "description": "Collect user orders and provide data analysis to administrators regarding purchases and costs by customers. Executed using HTML, CSS, JS, and PHP.",
+      "technologies": ["HTML", "CSS", "JS", "PHP"]
+    },
+    {
+      "title": "Mental health chatbot in Devrev",
+      "description": "A Chatbot providing suggestions based on user prompting, built with datasets and machine learning. Performed during the DevRev AI hackathon.",
+      "technologies": ["Datasets", "Machine Learning"]
+    }
+  ],
+  "languages": ["English", "Telugu", "Hindi"],
+  "interests": []
+}
